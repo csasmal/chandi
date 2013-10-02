@@ -10,3 +10,4 @@ alphabet = string.lowercase
 letters = characters.intersection(alphabet)
 
 print len(letters)
+#Added comment
